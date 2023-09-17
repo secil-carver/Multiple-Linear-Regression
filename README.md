@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression
+# Multiple Linear Regression Analysis
 [![](https://img.shields.io/badge/Python-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 [![](https://img.shields.io/badge/StatisticalModel-MultipleLinearRegression-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
 [![](https://img.shields.io/badge/Library-Statsmodels-green?style=for-the-badge)](https://docs.rs/crate/redant/latest)
